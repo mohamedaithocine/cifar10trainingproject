@@ -1,7 +1,8 @@
 # Neural Network CIFAR 10 Training Project
 
 <img width="543" height="176" alt="image" src="https://github.com/user-attachments/assets/f3beda1e-994e-419d-accd-491c4ef57c7e" />
-<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/920a40b8-f6d9-4984-a746-47413a93f999" />
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/b08c737e-1318-4d3e-ae42-dfdac903bf56" />
+
 
 
 
